@@ -51,7 +51,7 @@
 - 🆕**TXT转M3U格式**：
   - [https://live.fanmingming.cn/txt2m3u](https://live.fanmingming.cn/txt2m3u)
 - 📄**在线M3U转TXT**：
-  - Demo🔗 [https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://fanmingming.cn/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u)
+  - Demo🔗 [https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u)
 - 🌐**M3U8 Web Player**:
   - Demo🔗 [https://live.fanmingming.cn/player/?vurl=https://0472.org/hls/cgtn.m3u8](https://live.fanmingming.cn/player/?vurl=https://0472.org/hls/cgtn.m3u8)
 
