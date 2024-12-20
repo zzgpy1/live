@@ -19,12 +19,12 @@
 
 | 类 别  | 调用路径                                       | 最后更新   |
 |-------|------------------------------------------------|------------|
-| 📺电视  | [https://live.fanmingming.com/tv/{name}.png](https://github.com/fanmingming/live/tree/main/tv) | 2024.12.01    |
-| 📻广播  | [https://live.fanmingming.com/radio/{name}.png](https://github.com/fanmingming/live/tree/main/radio) | 2024.8.29   |
+| 📺电视  | [https://live.fanmingming.cn/tv/{name}.png](https://github.com/fanmingming/live/tree/main/tv) | 2024.12.01    |
+| 📻广播  | [https://live.fanmingming.cn/radio/{name}.png](https://github.com/fanmingming/live/tree/main/radio) | 2024.8.29   |
 
 ### ⛓️创建您的m3u订阅链接：
  - 下载 `demo.m3u` 空白示例文件并使用文本编辑软件打开。
-   - [https://live.fanmingming.com/tv/m3u/demo.m3u](https://live.fanmingming.com/tv/m3u/demo.m3u)
+   - [https://live.fanmingming.cn/tv/m3u/demo.m3u](https://live.fanmingming.cn/tv/m3u/demo.m3u)
 
  - 参考下方示例代码将`可用的CCTV1节目源`替换为您当地可用的直播源链接，依此类推逐个替换。
 
@@ -43,17 +43,17 @@
 
 ## 🛠️工具
 - 📆**EPG接口地址**：
-  -  [https://live.fanmingming.com/e.xml](https://live.fanmingming.com/e.xml)
+  -  [https://live.fanmingming.com/e.xml](https://live.fanmingming.cn/e.xml)
 - 🏞️**Bing每日图片**：
   -  [https://fanmingming.com/bing](https://fanmingming.com/bing)
 - 🎞️**m3u8在线下载**：
-  -  [https://live.fanmingming.com/m3u8](https://live.fanmingming.com/m3u8)
+  -  [https://live.fanmingming.cn/m3u8](https://live.fanmingming.cn/m3u8)
 - 🆕**TXT转M3U格式**：
-  - [https://live.fanmingming.com/txt2m3u](https://live.fanmingming.com/txt2m3u)
+  - [https://live.fanmingming.cn/txt2m3u](https://live.fanmingming.cn/txt2m3u)
 - 📄**在线M3U转TXT**：
-  - Demo🔗 [https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u)
+  - Demo🔗 [https://fanmingming.cn/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://fanmingming.cn/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u)
 - 🌐**M3U8 Web Player**:
-  - Demo🔗 [https://live.fanmingming.com/player/?vurl=https://0472.org/hls/cgtn.m3u8](https://live.fanmingming.com/player/?vurl=https://0472.org/hls/cgtn.m3u8)
+  - Demo🔗 [https://live.fanmingming.cn/player/?vurl=https://0472.org/hls/cgtn.m3u8](https://live.fanmingming.cn/player/?vurl=https://0472.org/hls/cgtn.m3u8)
 
 ## 📖说明
 - 项目EPG接口为112114.xyz站点分发，本项目无法确保其准确性。
@@ -72,5 +72,5 @@
   - 如遇资源访问问题请通过Telegram反馈。
 
 ## 📔更新
-- 2024.12.01
-  - 添加了台标。
+- 2024.12.20
+  - 由于.com域名在中国大陆无法访问，已启用镜像域名。
